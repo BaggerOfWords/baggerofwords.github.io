@@ -46,6 +46,7 @@ Skills
 * Miscellaneous
   * Rock Climbing, 7b boulderer (on a good day)
   * Head of Télécom SudParis' international student union from 2021 to 2022
+
 <!---
 Publications
 ======
@@ -68,3 +69,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
