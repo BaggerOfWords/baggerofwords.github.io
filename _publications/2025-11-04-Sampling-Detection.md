@@ -3,7 +3,7 @@ title: "How Sampling Affects the Detectability of Machine-written texts: A Compr
 collection: publications
 permalink: /publication/2025-11-04-Sampling-Detection
 date: 2025-11-04
-venue: "EMNLP 2025)"
+venue: "EMNLP"
 category: conferences   # e.g., conferences | manuscripts | books
 authors: "Matthieu Dubois, François Yvon, Pablo Piantanida"
 paperurl: /files/EMNLP_2025-4.pdf
